@@ -1,2 +1,2 @@
 # vue-project
-# https://hosting.4everland.org
+# hosting.4everland.org
